@@ -6,16 +6,14 @@ p {
     font-family: 'PT Sans', sans-serif;
 }
 
-.figcaption {
-    float: left;
-    position: absolute;
-    text-align: center;
-    margin-top: 135px;
+.btn {
     background-image: linear-gradient( rgb(255, 17, 97), rgb(34, 184, 176));
     border-style: outset;
     border-color: black;
     font-family: 'Cutive Mono', monospace;
-    font-size: 35px
+    font-size: 35px;
+    margin-top: 15px;
+    margin-bottom: 10%;
 }
 
 img {
