@@ -13,7 +13,6 @@ p {
     font-family: 'Cutive Mono', monospace;
     font-size: 35px;
     margin-top: 15px;
-    margin-bottom: 10%;
 }
 
 img {
@@ -30,4 +29,8 @@ img {
 body {
     background-image: url("images/background.jpg");
     background-size: unset;
+}
+
+.contactHyperlink {
+    color: white;
 }
